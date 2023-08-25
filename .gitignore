@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+vir_env/
+zoho_strip_API/db.sqlite3/
